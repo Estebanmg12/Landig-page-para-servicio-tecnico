@@ -1,0 +1,10 @@
+{
+  "description": "Connects Chaco homeowners and businesses with expert air conditioning and appliance repair services via easy WhatsApp contact for fast quotes and support.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
